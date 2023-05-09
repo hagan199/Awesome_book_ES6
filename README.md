@@ -84,7 +84,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link]<a name="https://hagan199.github.io/myCapstoneProject/"></a>
+- [Live Demo Link]<a name="https://hagan199.github.io/Awesome_book_ES6/"></a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
