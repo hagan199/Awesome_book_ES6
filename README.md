@@ -1,73 +1,47 @@
 <a name="readme-top"></a>
 
-# 📗 Awesome Book ES6
-<div align="center">
-  <br/>
-**AWESOME BOOK ES6** is a basic website that allows users to add/remove books from a list . We achieve that by using JavaScript objects and arrays. We also dynamically modify the DOM and add basic events . we use Github flow and a descriptive and easy to understand README file.this app will get a full and working navigation feature at later stages.
-
-
-</div>
-
-<!-- TABLE OF CONTENTSs -->
 
 # 📗 Table of Contents
 
 - [📖 About the Project](#about-project)
-  - [🛠 Built With](#built-with)
+  - [🛠️ Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
-    - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
   - [Install](#install)
+  - [Usage](#usage)
+  - [Run tests](#run-tests)
+  - [Deployment](#triangular_flag_on_post-deployment)
 - [👥 Authors](#authors)
 - [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
-- [⭐️ Show your support](#support)
-
+- [⭐ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
-<!-- - [❓ FAQ (OPTIONAL)](#faq) -->
 - [📝 License](#license)
+
 <!-- PROJECT DESCRIPTION -->
 
-## 🛠 Built With <a name="built-with"></a>
+# 📖 [Awesome Books] <a name="about-project"></a>
 
-- HTML & CSS 
-- Linter
-- Git, Github and Visual Studio Code
+Awesome Books is a single-page application (SPA) website that provides users with the ability to create and manage their book collection. With this website, users can easily create a book by providing a title and author name, and then add it to their personal books list on the page
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
+## 🛠️ Built With <a name="built-with">
 ### Tech Stack <a name="tech-stack"></a>
+- HTML
+- JAVASCRIPT
 
+</a>
 
-<details>
-  <summary>Client</summary>
-  <ul>
-    <li><a href="https://git-scm.com/">Git</a></li>
-  </ul>
-</details>
-
-<details>
-  <summary>Server</summary>
-  <ul>
-    <li><a href="https://github.com/">Github</a></li>
-  </ul>
-</details>
-
+<!-- Features -->
 
 ### Key Features <a name="key-features"></a>
 
-- **[Key Feature 1]**    Application Delop on github.io
+- **Add Books to a book list**
+- **Delete Books from the book list**
+- **Save data to local storage**
 
-
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-## 🚀 Live Demo <a name="live-demo"></a>
-
-- [Live Demo Link]<a name="https://hagan199.github.io/Awesome_book_ES6/"></a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -75,81 +49,89 @@
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-To get a local copy and running the project consider below items:
+To get a local copy up and running, follow these steps.
 
 ### Prerequisites
 
 In order to run this project you need:
 
-To get a local copy of my project you can use below link.
-
-"git@github.com: https://github.com/hagan199/awesome_world.git
+- browser like google chrome
 
 ### Setup
 
 Clone this repository to your desired folder:
 
-- Choose a directory
-- Open a Terminal
-- write: git clone  https://github.com/hagan199/Awesome_book_ES6.git
+- clone the project using by running the following command :
 
-### Install
-.02.2c
-   In order to run or modify this project you need to install the following:
-   - git
-   - code editor ( VS Code Suggested )
-   - browser  (Chrome Prefered)
+`git clone`
+`https://github.com/hagan199/Awesome_book_ES6.git`
 
-### Usage
+###  Install
 
-This project will be used to display my portfolios:
+ ```install
+ npm install
+ ```
 
+### Test
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+```test
+npx hint .
+npx eslint .
+```
+
 <!-- AUTHORS -->
 
 ## 👥 Authors <a name="authors"></a>
 
-👤 Emmanuel Hagan
+
+👤 **Emmanuel Hagan**
 
 - GitHub: [hagan199](https://github.com/hagan199)
+- LinkedIn: [Emmanunel Hagan](https://www.linkedin.com/in/emmanuel-hagan-26219a95/)
 
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p> 
 
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<!-- FUTURE FEATURES -->
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-
-- [1] **[Gallery and tutorial sections will be added ]**
-- [2] **[Updated CV will be added to the page ]**
+- **Add animation for the project**
+- **Add the editing functionality**
+- **Add the test for the project**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTRIBUTING -->
 
+## 🤝 Contributing <a name="contributing"></a>
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/hagan199/Awesome_book_ES6/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- SUPPORT -->
 
+## ⭐ Show your support <a name="support"></a>
 
+If you like this project you should give me a star.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- ACKNOWLEDGEMENTS -->
+
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
+I would like to thank Microverse for the opportunity
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LICENSE -->
 
-
-
 ## 📝 License <a name="license"></a>
 
 This project is [MIT](https://github.com/hagan199/Awesome_book_ES6/tree/develop/MIT.md) licensed.
-
-
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
