@@ -45,6 +45,11 @@ Awesome Books is a single-page application (SPA) website that provides users wit
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+### 🚀 Live Demo
+> Click [here](https://hagan199.github.io/Awesome_book_ES6/) to the demo 😊💯
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 <!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
