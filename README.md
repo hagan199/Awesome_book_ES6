@@ -1,9 +1,9 @@
 <a name="readme-top"></a>
 
-# 📗 Awesome Book
+# 📗 Awesome Book ES6
 <div align="center">
   <br/>
-**book world** is a basic website that allows users to add/remove books from a list . We achieve that by using JavaScript objects and arrays. We also dynamically modify the DOM and add basic events . we use Github flow and a descriptive and easy to understand README file.this app will get a full and working navigation feature at later stages.
+**AWESOME BOOK ES6** is a basic website that allows users to add/remove books from a list . We achieve that by using JavaScript objects and arrays. We also dynamically modify the DOM and add basic events . we use Github flow and a descriptive and easy to understand README file.this app will get a full and working navigation feature at later stages.
 
 
 </div>
