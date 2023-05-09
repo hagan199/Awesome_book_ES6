@@ -65,16 +65,6 @@
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- LIVE DEMO -->
-
-## Loom Video Priesentation
-
-## Here's a video explaining the project:
-
-## 🚀 Intro video <a name=""></a>
-
-
-
 ## 🚀 Live Demo <a name="live-demo"></a>
 
 - [Live Demo Link]<a name="https://hagan199.github.io/Awesome_book_ES6/"></a>
