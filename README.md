@@ -56,13 +56,6 @@
   </ul>
 </details>
 
-<details>
-<summary>Template</summary>
-  <ul>
-    <li><a href="https://creativecommons.org/licenses/by-nc/4.0/"></a></li>
-  </ul>
-</details>
-
 
 ### Key Features <a name="key-features"></a>
 
@@ -108,8 +101,7 @@ Clone this repository to your desired folder:
 
 - Choose a directory
 - Open a Terminal
-- write: git clone https://github.com/hagan199/myCapstoneProject.git
-
+- write: git clone  https://github.com/hagan199/Awesome_book_ES6.git
 
 ### Install
 .02.2c
@@ -157,31 +149,17 @@ Feel free to check the [issues page](../../issues/).
 <!-- SUPPORT -->
 
 
-## 🙏 Acknowledgments <a name="acknowledgements"></a>
-
-## Acknowledgements
-Original design by Cindy Shin on [Behance](https://www.behance.net/gallery/29845175/CC-Global-Summit-2015)
-
-
-## ⭐️ Show your support <a name="support"></a>
-
-Give a ⭐️ if you like this project!
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- ACKNOWLEDGEMENTS -->
-
-## 🙏 Acknowledgments <a name="acknowledgements"></a>
-
-Acknowledgements" section, you should give appropriate credit to Cindy Shin the author of the original design, as required by the Creative Commons License
-
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LICENSE -->
 
+
+
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](https://github.com/hagan199/my-portfolio/blob/validate-contact-form/MIT.md) licensed.
+This project is [MIT](https://github.com/hagan199/Awesome_book_ES6/tree/develop/MIT.md) licensed.
+
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
