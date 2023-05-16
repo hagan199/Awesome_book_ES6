@@ -1,11 +1,9 @@
 <a name="readme-top"></a>
 
-# 📗 Awesome Book
+### 📗 Awesome Book
 <div align="center">
   <br/>
-**book world** is a basic website that allows users to add/remove books from a list . We achieve that by using JavaScript objects and arrays. We also dynamically modify the DOM and add basic events . we use Github flow and a descriptive and easy to understand README file.this app will get a full and working navigation feature at later stages.
-
-
+  **book world** is a simple website that allows users to add or remove books from a list. It utilizes JavaScript objects and arrays to accomplish this functionality. The DOM is dynamically modified, and basic events are implemented. We follow the Github flow for version control, and provide a descriptive and easy-to-understand README file. Please note that the app will have a fully functional navigation feature in later stages of development.
 </div>
 
 <!-- TABLE OF CONTENTSs -->
